@@ -1,7 +1,7 @@
 ### Verificar Datas Com JavaScript
 <!--Como verificar se string é data em JavaScript? As melhores técnicas!-->
 
-Bora aprender um poquinho sobre como verificar se uma string é uma data válida em JavaScript📚 
+Bora aprender um poquinho sobre como verificar se uma string é uma data válida em JavaScript📚  
 Verificar se uma string é uma data válida em JavaScript pode ser feita de várias maneiras.  
 Porém neste pequeno tutorial irei explorar duas delas que ajudarão bastante os iniciantes no mundo da programação a implementar a verificação em seu próprio código.
 
