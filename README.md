@@ -23,3 +23,6 @@ Confira todo o meu passo a passo em: 👀
 [Date JavaScript — Trabalhando com data e hora em JS]()  
 [JavaScript Date Now — How to Get the Current Date in JavaScript]()  
 
+### 🤝 Contribuindo
+Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
+saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
